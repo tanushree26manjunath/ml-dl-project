@@ -116,27 +116,25 @@ legal-clause-summarization/
 
 ## ▶️ How to Run
 
-Clone the repository:
+1. Clone the repository:
 
 ```bash
 git clone <repository-url>
 ```
 
-Install dependencies:
+2. Install the required Python libraries:
 
 ```bash
-pip install -r requirements.txt
+pip install torch transformers pandas numpy matplotlib scikit-learn nltk rouge-score sacrebleu
 ```
 
-Launch Jupyter Notebook:
+3. Launch Jupyter Notebook:
 
 ```bash
 jupyter notebook
 ```
 
-Run all notebook cells sequentially.
-
----
+4. Open `mldl.ipynb` and run all cells sequentially.
 
 ## ✨ Key Features
 
