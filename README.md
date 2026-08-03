@@ -1,4 +1,4 @@
-# 📌 Legal Clause-Level Summarization using Deep Learning
+# 📌 Hybrid GRU Pointer-Generator for Legal Clause Summarization
 
 ## 🧠 Overview
 
